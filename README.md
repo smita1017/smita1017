@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smita1017
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning full stack web development
 
 - 📫 How to reach me smita126@gmail.com
 
